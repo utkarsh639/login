@@ -1,0 +1,19 @@
+
+h1{
+    margin-top: 100px;
+    text-align: center;
+}
+#l,#a,#email,#pass,#b,#e{
+    margin-left: 680px;
+}
+#email,#pass{
+    padding:5px
+}
+
+body{
+    background-color: yellowgreen;
+    margin-left: 20px;
+}
+#b,#r{
+    background-color: rgb(16, 231, 16);
+}

@@ -1,0 +1,28 @@
+#M,#L,#r{
+ margin-left: 50px;
+}
+#fname,#mname,#lname,#pass,#rpass{
+    padding:5px;
+}
+#cname{
+    width: 52%;
+    padding:5px;
+}
+#S{
+    margin-left: 150px;
+}
+#email{
+    width: 56%;
+    padding:5px;
+}
+#B{
+    margin-left: 30px;
+    padding: 5px;
+    background-color: green;
+}
+body{
+    border:1px solid black;
+}
+h1{
+    text-align: center;
+}
